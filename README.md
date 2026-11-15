@@ -61,6 +61,13 @@ make-knowledge-cards/
 
 ### 安装
 
+先取得仓库：
+
+```bash
+git clone https://github.com/linyouzhen2020/article-to-knowledge-cards.git
+cd article-to-knowledge-cards
+```
+
 把 `skills/make-knowledge-cards` 整个目录复制到技能目录：
 
 ```bash
