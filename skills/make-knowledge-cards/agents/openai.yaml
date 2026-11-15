@@ -1,0 +1,6 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "Turn an article or local Markdown/TXT file into 5-8 single-point knowledge cards"
+  default_prompt: "使用 $make-knowledge-cards 把这篇文章拆成 5~8 张知识卡片，每张只讲一个知识点，不要编造原文没有的信息。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,20 @@
+# 本地工具数据：记忆、测试样本、临时产物，不随仓库发布
+.workbuddy/
+
+# 系统与编辑器杂项
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Office 打开文档时生成的锁文件
+~$*
+
+# Python 缓存（本仓库无脚本，防止后续手滑带入）
+__pycache__/
+*.py[cod]
+
+# 打包产物
+dist/
+*.zip
